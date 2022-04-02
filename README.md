@@ -1,5 +1,5 @@
 # Case-Study-Lead-Scoring
-Logistic Model Building using Stats Model &amp; RFE
+Problem Solving using Logistic Model with Stats Model &amp; RFE
 
 # Problem statement:
 X Education sells online courses and needs a solution that can increase their customer lead conversions. The focus is selection of the most promising leads, i.e., the leads that are most likely to convert into paying customers.
